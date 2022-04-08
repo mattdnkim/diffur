@@ -14,7 +14,7 @@ const SecondPage = () => (
     <br/> 
     
     <div className="or">OR</div><br/>
-    <Button size="lg">Let us know How does your dog look like</Button> <br/><br/>
+    <Button size="lg" href="/customize/">Let us know How does your dog look like</Button> <br/><br/>
     
   <Link to="/">Go back to the homepage</Link>
   </Layout>
